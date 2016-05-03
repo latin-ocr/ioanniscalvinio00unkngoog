@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./ioanniscalvinio00unkngoog_0378.png"; bbox 0 0 5034 6034; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 687 1853 2388 1982">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 687 1853 2388 1982">
+     <span class='ocr_line' id='line_1_1' title="bbox 687 1853 2388 1982; baseline 0.001 -2"><span class='ocrx_word' id='word_1_1' title='bbox 687 1897 1405 1980; x_wconf 74' lang='lat' dir='ltr'>CONTINETUR</span> <span class='ocrx_word' id='word_1_2' title='bbox 1471 1897 1699 1980; x_wconf 82' lang='lat' dir='ltr'><strong>Hoc</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 1759 1853 2388 1982; x_wconf 75' lang='lat' dir='ltr'>VOLUMINE:</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 797 2289 2487 2720">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 797 2289 2487 2720">
+     <span class='ocr_line' id='line_1_2' title="bbox 797 2289 2487 2379; baseline 0 -24"><span class='ocrx_word' id='word_1_4' title='bbox 797 2291 913 2355; x_wconf 80' lang='lat' dir='ltr'><strong>LA</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 985 2289 1267 2356; x_wconf 75' lang='lat' dir='ltr'>BIBLE:</span> <span class='ocrx_word' id='word_1_6' title='bbox 1335 2289 1865 2378; x_wconf 70' lang='lat' dir='ltr'><strong>FRANQAlsE</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 1926 2290 2052 2356; x_wconf 76' lang='lat' dir='ltr'><strong>DE:</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 2119 2291 2487 2379; x_wconf 68' lang='lat' dir='ltr'><strong>QALVIN.</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 1095 2393 2156 2483; baseline 0.001 -3"><span class='ocrx_word' id='word_1_9' title='bbox 1095 2424 1233 2480; x_wconf 65' lang='lat' dir='ltr'><strong>mss</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 1269 2411 1696 2483; x_wconf 63' lang='lat' dir='ltr'><strong>ssvmfflms.</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 2087 2422 2094 2429; x_wconf 87' lang='lat'><strong>·</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 2143 2393 2156 2405; x_wconf 82' lang='grc'><em>“</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 1099 2542 2053 2601; baseline 0.002 -2"><span class='ocrx_word' id='word_1_13' title='bbox 1099 2543 1236 2600; x_wconf 71' lang='lat' dir='ltr'><strong>ms</strong></span> <span class='ocrx_word' id='word_1_14' title='bbox 1269 2543 1500 2600; x_wconf 71' lang='lat' dir='ltr'><strong>AcTEs</strong></span> <span class='ocrx_word' id='word_1_15' title='bbox 1531 2544 1670 2600; x_wconf 68' lang='lat' dir='ltr'><strong>nm</strong></span> <span class='ocrx_word' id='word_1_16' title='bbox 1703 2542 2053 2601; x_wconf 65' lang='lat' dir='ltr'><strong>nomme.</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 1099 2651 1593 2720; baseline 0.002 -1"><span class='ocrx_word' id='word_1_17' title='bbox 1099 2662 1237 2719; x_wconf 73' lang='lat' dir='ltr'><strong>ms</strong></span> <span class='ocrx_word' id='word_1_18' title='bbox 1271 2651 1593 2720; x_wconf 69' lang='grc' dir='ltr'><strong>ΕΡΙΤΒΕΒ.</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

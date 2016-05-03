@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./ioanniscalvinio00unkngoog_0525.png"; bbox 0 0 5034 6034; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1828 2718 3747 2805">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1828 2718 3747 2805">
+     <span class='ocr_line' id='line_1_1' title="bbox 1828 2718 3747 2805; baseline 0.001 -21"><span class='ocrx_word' id='word_1_1' title='bbox 1828 2720 2273 2803; x_wconf 67' lang='lat' dir='ltr'><strong>L’asterisque</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 2318 2719 2430 2786; x_wconf 79' lang='lat' dir='ltr'><strong>des</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 2477 2728 2662 2785; x_wconf 77' lang='lat' dir='ltr'><strong>notes</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 2708 2719 2977 2805; x_wconf 62' lang='lat' dir='ltr'>daeigne</span> <span class='ocrx_word' id='word_1_5' title='bbox 3020 2720 3083 2785; x_wconf 84' lang='lat' dir='ltr'><strong>le</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 3129 2719 3210 2786; x_wconf 90' lang='lat' dir='ltr'><strong>N.</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 3256 2720 3333 2785; x_wconf 81' lang='grc' dir='ltr'><strong>Τ.</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 3382 2718 3458 2786; x_wconf 81' lang='lat' dir='ltr'><strong>de</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 3504 2719 3747 2804; x_wconf 81' lang='lat' dir='ltr'><strong>Jaquy.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 4852 5 4883 2455">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 4852 5 4883 2455">
+     <span class='ocr_line' id='line_1_2' title="bbox 4852 5 4883 2455; baseline 0 0"><span class='ocrx_word' id='word_1_10' title='bbox 4852 5 4883 2455; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 4906 4296 4932 5062">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 4906 4296 4932 5062">
+     <span class='ocr_line' id='line_1_3' title="bbox 4906 4296 4932 5062; baseline 0 0"><span class='ocrx_word' id='word_1_11' title='bbox 4906 4296 4932 5062; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
